@@ -1,0 +1,13 @@
+﻿@{
+    Layout = "~/Views/Shared/_main.cshtml";
+}
+@model IEnumerable<Database.TbCategories>
+<table>
+    @foreach (var cat in Model)
+    {
+        <tr>
+            <td>@cat.Id</td>
+            <td>@cat.Name</td>
+    </tr>
+    }
+</table>

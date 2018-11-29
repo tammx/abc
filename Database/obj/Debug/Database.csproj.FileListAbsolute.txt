@@ -1,0 +1,16 @@
+D:\MORE\Database\bin\Debug\Database.dll.config
+D:\MORE\Database\bin\Debug\Database.dll
+D:\MORE\Database\bin\Debug\Database.pdb
+D:\MORE\Database\bin\Debug\EntityFramework.dll
+D:\MORE\Database\bin\Debug\EntityFramework.SqlServer.dll
+D:\MORE\Database\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\MORE\Database\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\MORE\Database\bin\Debug\EntityFramework.xml
+D:\MORE\Database\bin\Debug\EntityFramework.SqlServer.xml
+D:\MORE\Database\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\MORE\Database\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\MORE\Database\obj\Debug\Database.dll
+D:\MORE\Database\obj\Debug\Database.pdb
+D:\MORE\ABC\bin\Database.dll.config
+D:\MORE\ABC\bin\Database.dll
+D:\MORE\ABC\bin\Database.pdb
