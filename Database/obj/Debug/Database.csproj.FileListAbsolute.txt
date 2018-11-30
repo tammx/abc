@@ -28,3 +28,17 @@ E:\test\abc\Database\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
 E:\test\abc\Database\obj\Debug\Database.csprojResolveAssemblyReference.cache
 E:\test\abc\Database\obj\Debug\Database.dll
 E:\test\abc\Database\obj\Debug\Database.pdb
+E:\test\develop\abc\Database\bin\Debug\Database.dll.config
+E:\test\develop\abc\Database\bin\Debug\Database.dll
+E:\test\develop\abc\Database\bin\Debug\Database.pdb
+E:\test\develop\abc\Database\bin\Debug\EntityFramework.dll
+E:\test\develop\abc\Database\bin\Debug\EntityFramework.SqlServer.dll
+E:\test\develop\abc\Database\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\test\develop\abc\Database\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\test\develop\abc\Database\bin\Debug\EntityFramework.xml
+E:\test\develop\abc\Database\bin\Debug\EntityFramework.SqlServer.xml
+E:\test\develop\abc\Database\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\test\develop\abc\Database\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\test\develop\abc\Database\obj\Debug\Database.csprojResolveAssemblyReference.cache
+E:\test\develop\abc\Database\obj\Debug\Database.dll
+E:\test\develop\abc\Database\obj\Debug\Database.pdb
