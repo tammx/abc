@@ -17,5 +17,12 @@ namespace ABC.Controllers
                 return View(db.TbCat.ToList());
             }
         }
+        public ActionResult News()
+        {
+            using (var db = new AbcContext())
+            {
+                return View(db.TbNews.ToList());
+            }
+        }
     }
 }

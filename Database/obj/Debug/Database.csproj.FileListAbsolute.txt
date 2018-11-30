@@ -14,3 +14,17 @@ D:\MORE\Database\obj\Debug\Database.pdb
 D:\MORE\ABC\bin\Database.dll.config
 D:\MORE\ABC\bin\Database.dll
 D:\MORE\ABC\bin\Database.pdb
+E:\test\abc\Database\bin\Debug\Database.dll.config
+E:\test\abc\Database\bin\Debug\Database.dll
+E:\test\abc\Database\bin\Debug\Database.pdb
+E:\test\abc\Database\bin\Debug\EntityFramework.dll
+E:\test\abc\Database\bin\Debug\EntityFramework.SqlServer.dll
+E:\test\abc\Database\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\test\abc\Database\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\test\abc\Database\bin\Debug\EntityFramework.xml
+E:\test\abc\Database\bin\Debug\EntityFramework.SqlServer.xml
+E:\test\abc\Database\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\test\abc\Database\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\test\abc\Database\obj\Debug\Database.csprojResolveAssemblyReference.cache
+E:\test\abc\Database\obj\Debug\Database.dll
+E:\test\abc\Database\obj\Debug\Database.pdb
